@@ -17,4 +17,3 @@ Most effectively runs in google colaboratory, and can be run as is. To run in py
 5. Input the Y and X coordinate values of the start and end points in the input boxes and separate them with a space.
 6. Let the code run for a few minutes, and you should see your path and explored nodes displayed in the output.
 
-7. 
